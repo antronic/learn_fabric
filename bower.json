@@ -15,6 +15,7 @@
     "tests"
   ],
   "dependencies": {
-    "fabric.js": "fabric#^1.7.1"
+    "fabric.js": "fabric#^1.7.1",
+    "bootstrap": "^3.3.7"
   }
 }
