@@ -17,6 +17,9 @@ var circle = new fabric.Circle({
 })
 
 fabric.Image.fromURL('XdQULww6_400x400.png', (objImg) => {
+  objImg.scale(0.25)
+  objImg.top = 140
+  objImg.left = 50
   canvas.add(objImg)
 })
 
