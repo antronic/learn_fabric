@@ -1,0 +1,20 @@
+{
+  "name": "learn_fabric",
+  "homepage": "https://github.com/antronic/learn_fabric",
+  "authors": [
+    "Jirachai Chansivanon <antronic.inc@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fabric.js": "fabric#^1.7.1"
+  }
+}

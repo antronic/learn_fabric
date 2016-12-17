@@ -1,0 +1,23 @@
+{
+  "name": "learn_fabric",
+  "version": "1.0.0",
+  "description": "FabricJS is canvas library for make canvas easier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antronic/learn_fabric.git"
+  },
+  "author": "Jirachai Chansivanon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antronic/learn_fabric/issues"
+  },
+  "homepage": "https://github.com/antronic/learn_fabric#readme",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-preset-es2015": "^6.18.0"
+  }
+}
